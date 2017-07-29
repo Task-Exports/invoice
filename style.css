@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+table{
+	width: 100%;
+}
+
+.thead{
+	width: 30%;
+	/*font-size: 10px;*/
+}
